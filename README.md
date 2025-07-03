@@ -5,7 +5,7 @@ RAG ChatBot is an AI-powered tool that allows you to ask natural language questi
 
 ---
 
-## ✨ Features
+## Features
 
 - 📄 PDF content extraction
 - ✂️ Semantic chunking with embeddings
@@ -16,14 +16,14 @@ RAG ChatBot is an AI-powered tool that allows you to ask natural language questi
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 - Python >= 3.10
 - CUDA-enabled GPU (recommended: >=16GB VRAM)
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### 1. Clone the repository
 
@@ -80,7 +80,7 @@ streamlit run app.py
 
 ---
 
-## 🧪 How to Use
+## How to Use
 
 1. Upload your PDF file.
 2. Click the "Press to process file" button.
@@ -89,7 +89,7 @@ streamlit run app.py
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 rag-chatbot/
@@ -100,7 +100,7 @@ rag-chatbot/
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 - This tool loads Vicuna-7B using 4-bit quantization for reduced memory usage.
 - Ensure your environment supports `bitsandbytes` and CUDA if running on GPU.
@@ -108,6 +108,6 @@ rag-chatbot/
 
 ---
 
-## 📜 License
+## License
 
 MIT License – feel free to use and modify with attribution.
