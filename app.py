@@ -1,3 +1,4 @@
+import monkey_patch_sqlite  
 import streamlit as st
 import tempfile
 import os
