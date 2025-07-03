@@ -96,6 +96,7 @@ rag-chatbot/
 ├── app.py               # Main Streamlit app
 ├── requirements.txt     # Required Python packages
 └── README.md            # Project overview and usage
+└── RAG_chatbot.ipynb    # Notebook for the project 
 ```
 
 ---
